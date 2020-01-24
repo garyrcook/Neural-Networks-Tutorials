@@ -13,3 +13,6 @@ Throughout the tutorial classes with methods for creating and training neural ne
 The final worked example focuses on SciKit-Learns digits and creates three neural networks and trains each using batch, 
 stochastic and mini-batch gradient descent in turn.
 In the final example Scikit-Learn is also used for preprocessing the data and comparing the results of the three networks.
+
+Note: Not all of the Jupyter markdown text is rendering as it should in GitHub, including some images, so I recommend downloading
+and the repository and opening files in Jupyter.
